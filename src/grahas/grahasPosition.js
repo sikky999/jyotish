@@ -1,4 +1,4 @@
-const swisseph = require('swisseph');
+const swisseph = require('swisseph-v2');
 const SE_GRAHAS = require('./SE_GRAHAS');
 const getNakshatra = require('./../nakshatras/getNakshatra');
 const getRashi = require('./../rashis/getRashi');

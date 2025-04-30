@@ -1,6 +1,6 @@
 {
   "name": "jyotish-calculations",
-  "version": "1.0.5",
+  "version": "1.0.8",
   "description": "The Jyotish module has calculations related to Vedic Astrology",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jyotish-calculations": "file:jyotish-calculations-1.0.4.tgz",
     "swisseph-v2": "^1.0.4"
   },
   "devDependencies": {
