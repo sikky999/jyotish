@@ -1,5 +1,5 @@
 {
-  "name": "jyotish",
+  "name": "jyotish-calculations",
   "version": "1.0.1",
   "description": "The Jyotish module has calculations related to Vedic Astrology",
   "main": "index.js",
@@ -7,16 +7,13 @@
     "test:unit": "jest --watch"
   },
   "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/mohitmilindthakur/jyotish.git"
+    "type": "git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mohitmilindthakur/jyotish/issues"
-  },
-  "homepage": "https://github.com/mohitmilindthakur/jyotish#readme",
   "dependencies": {
+    "jyotish": "file:jyotish-1.0.1.tgz",
+    "jyotish-calculations": "file:jyotish-calculations-1.0.1.tgz",
     "swisseph-v2": "^1.0.4"
   },
   "devDependencies": {
